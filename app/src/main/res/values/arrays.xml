@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="area_item1">
+        <item name="key">130010</item>
+        <item name="value">東京</item>
+    </string-array>
+    <string-array name="area_item2">
+        <item name="key">140010</item>
+        <item name="value">横浜</item>
+    </string-array>
+    <string-array name="area_item3">
+        <item name="key">120010</item>
+        <item name="value">千葉</item>
+    </string-array>
+    <string-array name="area_item4">
+        <item name="key">110010</item>
+        <item name="value">さいたま</item>
+    </string-array>
+
+    <array name="area_data">
+        <item>@array/area_item1</item>
+        <item>@array/area_item2</item>
+        <item>@array/area_item3</item>
+        <item>@array/area_item4</item>
+    </array>
+
+</resources>
